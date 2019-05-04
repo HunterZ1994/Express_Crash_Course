@@ -1,0 +1,26 @@
+{
+  "name": "Express_Crash_Course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterZ1994/Express_Crash_Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HunterZ1994/Express_Crash_Course/issues"
+  },
+  "homepage": "https://github.com/HunterZ1994/Express_Crash_Course#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
